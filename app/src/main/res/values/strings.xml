@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoMovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username" />
+    <string name="password" />
+    <string name="remember_me" />
+    <string name="login" />
+    <string name="forgot_password" />
+    <string name="sign_up" />
+</resources>

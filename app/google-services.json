@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "916510750002",
+    "firebase_url": "https://projectmovieapp-2fc9e-default-rtdb.firebaseio.com",
+    "project_id": "projectmovieapp-2fc9e",
+    "storage_bucket": "projectmovieapp-2fc9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916510750002:android:2c71de36e6e3efae58932b",
+        "android_client_info": {
+          "package_name": "com.example.proyectomovieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4dxUcLdObbQ5JFdrdKTxMfrBK0k-XVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
